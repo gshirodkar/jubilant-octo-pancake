@@ -1,3 +1,4 @@
+#Yash python class - mar27 2021
 import random
 
 print ("How many sides do you want? ")
